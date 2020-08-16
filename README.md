@@ -8,10 +8,10 @@ My domination is in Backend (Django) but I can also work on frontend, like [this
 Apart from that, I'm a Python enthusiast and a Competitive Programmer (C++ / Python). I'm always looking forward to new opportunities, please reach-out if you have one.
 
 <p align='center'>
-  <a href="https://www.codechef.com/users/manthanchauhan"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  <a href="https://medium.com/@manthanchauhan913"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  <a href="mailto:manthanchauhan913@gmail.com"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  <a href="https://www.linkedin.com/in/manthan-chauhan-83b1b4140/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/manthan-chauhan-83b1b4140/"><img height="35" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="mailto:manthanchauhan913@gmail.com"><img height="40" src="https://github.com/manthanchauhan/manthanchauhan/blob/master/gmail.png"></a>
+  <a href="https://medium.com/@manthanchauhan913"><img width="35" src="https://github.com/manthanchauhan/manthanchauhan/blob/master/medium.png"></a>
+  <a href="https://www.codechef.com/users/manthanchauhan"><img height="40" src="https://github.com/manthanchauhan/manthanchauhan/blob/master/codechef.svg"></a>
 </p>
 
 <!--
