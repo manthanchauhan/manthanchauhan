@@ -1,4 +1,4 @@
-![Header](https://github.com/manthanchauhan/manthanchauhan/blob/master/Add%20a%20heading.png)
+![Header](https://github.com/manthanchauhan/manthanchauhan/blob/master/Add%20a%20heading%20(1).png)
 
 ### Hi there 👋
 
