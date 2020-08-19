@@ -5,7 +5,7 @@ My name is Manthan Chauhan and I'm a Web Developer.
 
 My domination is in Backend (Django) but I can also work on frontend, like [this website](http://www.online-portfolio.live/about/). I'm comfortable with both SQL and NoSQL databases and have fair amount of experience in each. 
 
-Apart from that, I'm a Python enthusiast and a Competitive Programmer (C++ / Python). I'm always looking forward to new opportunities, please reach-out if you have one.
+Apart from that, I'm a Python enthusiast and a Competitive Programmer (C++ / Python). I also write articles on Medium & Geeksforgeeks occassionally. I'm always looking forward to new opportunities, please reach-out if you have one.
 
 <hr>
 <p align='center'>
