@@ -1,11 +1,15 @@
 ![Header](https://github.com/manthanchauhan/manthanchauhan/blob/master/Add%20a%20heading%20(1).png)
 
 ### Hi there 👋
-My name is Manthan Chauhan and I'm a Web Developer. 
+My name is Manthan Chauhan and I'm a Software Engineer.
 
-My domination is in Backend (Django) but I can also work on frontend, like [this website](http://www.online-portfolio.live/about/). I'm comfortable with both SQL and NoSQL databases and have fair amount of experience in each. 
+My domination is primarily in Backend Engineering but to me technology itself is an holistic domain where I keep building new things. I started my career in 2020 and since then my diverse experiences include building web server applications, event-driven systems, recommendation & search systems, database engines, diffusion model applications, AI agents & MCP servers.
 
-Apart from that, I'm a Python enthusiast and a Competitive Programmer (C++ / Python). I also write articles on Medium & Geeksforgeeks occassionally. I'm always looking forward to new opportunities, please reach-out if you have one.
+I never shy away from solving new problems and I'm always eager to learn new tech. I have professional experience in working with Java, Python & Golang. Here are a few of my projects,
+
+1. [Custom built database engine based on Bitcask architecture in Go](https://github.com/manthanchauhan/key_val_db_engine)
+2. [Virutal try-on application based on stable diffusion in Python](https://github.com/manthanchauhan/virtual-try-on)
+3. [MCP server for customer support agent in Go](https://github.com/manthanchauhan/mcp-mysql-go)
 
 <hr>
 <p align='center'>
